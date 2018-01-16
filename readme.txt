@@ -9,3 +9,4 @@ checkout
 错误修改
 
 创建分支dev
+Creating a new branch is quick & simple.
