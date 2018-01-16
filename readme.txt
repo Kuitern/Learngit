@@ -10,6 +10,6 @@ checkout
 
 创建分支dev
 
-Creating a new branch is quick 和 simple.
+Creating a new branch is quick 1 simple.
 
 
